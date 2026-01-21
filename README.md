@@ -60,7 +60,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="70" width="70"/>
   <img src="https://raw.githubusercontent.com/yashbhaskar/yashbhaskar/main/Assets/Ubuntu.png" height="70" width="70"/>
-  <img src="https://raw.githubusercontent.com/yashbhaskar/yashbhaskar/main/Assets/Debian.png" height="70" width="70"/>
+  <img src="https://raw.githubusercontent.com/yashbhaskar/yashbhaskar/main/Assets/Debianos.png" height="70" width="70"/>
 </p>
 
 - **Ubuntu Linux**
