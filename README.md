@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Bhaskar</h1>
 <h3 align="center">Robotics Engineer | ROS2 Developer | Robotics Software Engineer</h3>
 
-<p align="center">
-  🤖 Building intelligent robots with ROS2 & Navigation Stack <br>
-  🚀 Passionate about SLAM, Behavior Trees & Real-World Robotics
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
@@ -69,12 +64,13 @@
 
 ---
 
-## 🚀 Practical Experience
-- 🗺️ 2D & 3D Mapping (Cartographer, RTAB-Map)
-- 🧭 Autonomous Navigation using Nav2
-- ⚙️ Nav2 parameter tuning on real robots
-- 🎮 Differential & Ackermann drive systems
-- 🔄 Speed correlation & control logic
+## 🚀 Experience
+
+- Mapping : 2D Mapping using slam toolbox and cartographer slam, 3D Mapping using Rtab-Map
+- Localization : Amcl Localization, SLAM Localization, Cartographer Localization
+- Autonomous Navigation : Multi-Planner & Controller Configurations, Docking Server, 3D Lidar & Depth-Cam Navigation
+- Robot Models : Differential Drive Robots, Ackermann Robots
+- Behavior Tree : Custom BT Plugin
 
 ---
 
@@ -95,7 +91,9 @@
 ## 📫 Connect With Me
 - 💼 LinkedIn: *https://www.linkedin.com/in/yash-bhaskar-robotics*
 - 🌐 Portfolio: *https://yash-bhaskar-portfolio.netlify.app*
+- 🎨 CAD Portfolio: *https://grabcad.com/yash.bhaskar-3*
 - 📧 Email: *ybbhaskar19@gmail.com*
+- 📞 Phone: +91-9022290396
 
 ---
 
