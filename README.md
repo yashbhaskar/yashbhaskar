@@ -34,8 +34,8 @@
 
 ### 💻 Programming Languages
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="70" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="70" width="70"/>
 </p>
 
 - **Python**
@@ -45,9 +45,9 @@
 
 ### ⚙️ Development & DevOps
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/yashbhaskar/yashbhaskar/main/Assets/Gi.png" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="70" width="70"/>
+  <img src="https://raw.githubusercontent.com/yashbhaskar/yashbhaskar/main/Assets/Github.png" height="70" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="70" width="70"/>
 </p>
 
 - **Git & GitHub**
