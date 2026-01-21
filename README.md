@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Bhaskar</h1>
-<h3 align="center">Robotics & Automation Engineer | ROS2 | Autonomous Navigation</h3>
+<h3 align="center">Robotics Software Engineer | ROS2 Developer | Robotics Engineer</h3>
 
 <p align="center">
   🤖 Building intelligent robots with ROS2 & Navigation Stack <br>
