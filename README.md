@@ -21,7 +21,7 @@
 ### 🤖 Robotics & Simulation
 <p align="left">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ros.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/robotframework.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/yashbhaskar/yashbhaskar/main/Logo Assets/Behavior Tree.png" height="40"/>
   <img src="https://gazebosim.org/assets/images/logos/ignition.png" height="40"/>
 </p>
 
