@@ -95,7 +95,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=1f6feb&label=Repositories&query=public_repos&url=https://api.github.com/users/yashbhaskar" />
-  <img src="https://komarev.com/ghpvc/?username=yashbhaskar&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=yashbhaskar&style=for-the-badge&color=1f6feb" />
 </p>
 
 ---
