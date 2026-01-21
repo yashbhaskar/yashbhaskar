@@ -26,10 +26,9 @@
 </p>
 
 - **ROS2**
-- **Nav2 (Navigation Stack)**
-- **Behavior Trees (Groot2)**
+- **Nav2**
+- **Behavior Trees**
 - **Ignition Fortress**
-- **SLAM, AMCL, Localization**
 
 ---
 
