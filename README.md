@@ -130,7 +130,7 @@ These repositories cover:
 **NAV2 – Navigation:**  
 
 13. [Multi-Planner & Controller Configs](https://github.com/yashbhaskar/ROS2_Nav2_MultiPlanner_Controller_Configs)  
-14. [Autonomous Docking Server](https://github.com/yashbhaskar/ROS—2_Autonomous_Navigation_With_Docking)  
+14. [Autonomous Docking Server](https://github.com/yashbhaskar/ROS2_Autonomous_Navigation_With_Docking)  
 
 **Robot Models:**  
 
