@@ -134,7 +134,7 @@ These repositories cover:
 
 **Robot Models:**  
 
-15. [Ackermann Navigation](https://github.com/yashbhaskar/Ros2_Nav2_Speed_Correlated_Navigation)  
+15. [Ackermann Navigation](https://github.com/yashbhaskar/ROS2_Ackermann_Navigation_Nav2)  
 16. [OmniDrive (Mecanum) Navigation](https://github.com/yashbhaskar/ROS2_Omnidirectional_Mecanum_Navigation_Nav2)  
 
 ---
