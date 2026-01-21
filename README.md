@@ -88,15 +88,13 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yashbhaskar&show_icons=true&theme=tokyonight&count_private=true" />
   <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashbhaskar&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=public_repos&url=https://api.github.com/users/yashbhaskar" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=1f6feb&label=Repositories&query=public_repos&url=https://api.github.com/users/yashbhaskar" />
   <img src="https://komarev.com/ghpvc/?username=yashbhaskar&color=blue" />
 </p>
 
