@@ -84,7 +84,7 @@
 - 📦 **Total Repositories:**  _auto-updates on profile_
 ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=public_repos&url=https://api.github.com/users/yashbhaskar)
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashbhaskar&layout=compact&theme=tokyonight" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashbhaskar&layout=compact&theme=tokyonight" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yashbhaskar&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
