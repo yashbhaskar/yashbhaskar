@@ -40,7 +40,7 @@
 
 - **Python**
 - **C++**
-- 
+
 ---
 
 ### Development & DevOps
