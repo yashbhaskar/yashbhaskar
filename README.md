@@ -88,13 +88,55 @@
 
 ---
 
+## 🚀 Implementation for ROS Beginners
+
+If you are exploring **Robotics, Autonomous Navigation, ROS2, Nav2, and Behavior Trees**, I’ve compiled a set of **hands-on repositories** that can significantly accelerate your learning journey.  
+
+These repositories cover:
+
+- 🔹 **Robot Models** — Differential Drive, Ackermann, OmniDrive (Mecanum)  
+- 🔹 **Core ROS 2 Concepts** — Packages, Topics (Pub/Sub), Services, Actions, URDF, Sensors  
+- 🔹 **Localization** — AMCL, SLAM Toolbox, Cartographer Localization  
+- 🔹 **Mapping** — SLAM Toolbox 2D, Cartographer 2D, RTAB-Map 3D  
+- 🔹 **Nav2 Navigation** — Multiple planners/controllers, Docking Server 
+
+💡 *Knowledge grows when shared!* I hope these resources help students, freshers, and robotics enthusiasts gain **real-world practical experience**.  
+
+---
+
+### 📦 Repositories
+
+**ROS2 Basics:**  
+1. [ROS2 Packages](https://github.com/yashbhaskar/ROS2-Packages)  
+2. [ROS2 Turtlesim](https://github.com/yashbhaskar/ROS2-Turtlesim)  
+3. [ROS2 Service](https://github.com/yashbhaskar/ROS2-Service)  
+4. [ROS2 Action](https://github.com/yashbhaskar/ROS2-Action)  
+5. [ROS2 URDF](https://github.com/yashbhaskar/ROS2-URDF)  
+6. [ROS2 Robot Model with Sensors](https://github.com/yashbhaskar/Ros2_Robot_Model_With_Sensors)  
+
+**NAV2 – Mapping:**  
+7. [SLAM Toolbox 2D Mapping](https://github.com/yashbhaskar/ROS2_2D_Mapping_SLAM_Toolbox)  
+8. [Cartographer 2D Mapping](https://github.com/yashbhaskar/ROS2_2D_Mapping_Cartographer_SLAM)  
+9. [RTAB-Map 3D Mapping](https://github.com/yashbhaskar/ROS2_3D_Mapping_RTAB_Map)  
+
+**NAV2 – Localization:**  
+10. [AMCL Localization](https://github.com/yashbhaskar/ROS2_NAV2_With_AMCL_Localization)  
+11. [SLAM Localization](https://github.com/yashbhaskar/ROS2_NAV2_With_SLAM_Localization)  
+12. [Cartographer Localization](https://github.com/yashbhaskar/ROS2_NAV2_With_Cartographer_Localization)  
+
+**NAV2 – Navigation:**  
+13. [Multi-Planner & Controller Configs](https://github.com/yashbhaskar/ROS2_Nav2_MultiPlanner_Controller_Configs)  
+14. [Autonomous Docking Server](https://github.com/yashbhaskar/ROS—2_Autonomous_Navigation_With_Docking)  
+
+**Robot Models:**  
+15. [Ackermann Navigation](https://github.com/yashbhaskar/Ros2_Nav2_Speed_Correlated_Navigation)  
+16. [OmniDrive (Mecanum) Navigation](https://github.com/yashbhaskar/ROS2_Omnidirectional_Mecanum_Navigation_Nav2)  
+
+---
+
 ## 📫 Connect With Me
 - 💼 LinkedIn: *https://www.linkedin.com/in/yash-bhaskar-robotics*
 - 🌐 Portfolio: *https://yash-bhaskar-portfolio.netlify.app*
 - 🎨 CAD Portfolio: *https://grabcad.com/yash.bhaskar-3*
 - 📧 Email: *ybbhaskar19@gmail.com*
 - 📞 Phone: +91-9022290396
-
----
-
-⭐ **Focused on building real, reliable autonomous robots**
