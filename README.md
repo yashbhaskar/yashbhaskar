@@ -18,11 +18,11 @@
 
 ## 🛠️ Tech Stack & Tools
 
-### 🤖 Robotics & Simulation
+### Robotics & Simulation
 <p align="left">
-  <img src="https://raw.githubusercontent.com/yashbhaskar/yashbhaskar/main/Assets/ROS.png" height="50" />
-  <img src="https://raw.githubusercontent.com/yashbhaskar/yashbhaskar/main/Assets/Nav2.png" height="50" width="70"/>
-  <img src="https://raw.githubusercontent.com/yashbhaskar/yashbhaskar/main/Assets/Ignition.png" height="50" width="70"/>
+  <img src="https://raw.githubusercontent.com/yashbhaskar/yashbhaskar/main/Assets/ROS.png" height="70" />
+  <img src="https://raw.githubusercontent.com/yashbhaskar/yashbhaskar/main/Assets/Nav2.png" height="70" width="70"/>
+  <img src="https://raw.githubusercontent.com/yashbhaskar/yashbhaskar/main/Assets/Ignition.png" height="70" width="70"/>
 </p>
 
 - **ROS2**
