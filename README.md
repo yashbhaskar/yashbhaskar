@@ -88,7 +88,7 @@
 
 ---
 
-## 🚀 Implementation for ROS Beginners
+## 🚀 Implementation for ROS2 Beginners
 
 If you are exploring **Robotics, Autonomous Navigation, ROS2, Nav2, and Behavior Trees**, I’ve compiled a set of **hands-on repositories** that can significantly accelerate your learning journey.  
 
