@@ -20,7 +20,7 @@
 
 ### 🤖 Robotics & Simulation
 <p align="left">
-  <img src="https://raw.githubusercontent.com/yashbhaskar/yashbhaskar/main/Assets/ROS.png" height="30" />
+  <img src="https://raw.githubusercontent.com/yashbhaskar/yashbhaskar/main/Assets/ROS.png" height="50" />
   <img src="https://raw.githubusercontent.com/yashbhaskar/yashbhaskar/main/Assets/Nav2.png" height="50" width="50"/>
   <img src="https://raw.githubusercontent.com/yashbhaskar/yashbhaskar/main/Assets/Ignition.png" height="50" width="50"/>
 </p>
