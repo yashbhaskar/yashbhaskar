@@ -9,11 +9,10 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Robotics & Automation Engineer  
-- 🤖 Skilled in **ROS2, Nav2, Behavior Trees, SLAM, Localization, Navigation**
-- 🏆 **E-Yantra IIT Bombay** participant (2022, 2023, 2024)  
-- 🛠️ Experience with **real robots & simulation**
-
+- 🎓 B.E. Robotics & Automation Engineer  
+- 🤖 Proficient in **ROS2, Nav2, Behavior Trees, SLAM, Localization, and Autonomous Navigation**  
+- 🏆 **E-Yantra IIT Bombay** participant (2022, 2023, 2024), led and solved complex robotics tasks  
+- 🛠️ Hands-on experience with **real robots and simulation environments**
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -23,50 +22,40 @@
   <img src="https://raw.githubusercontent.com/yashbhaskar/yashbhaskar/main/Assets/ROS.png" height="70" />
   <img src="https://raw.githubusercontent.com/yashbhaskar/yashbhaskar/main/Assets/Nav2.png" height="70" width="70"/>
   <img src="https://raw.githubusercontent.com/yashbhaskar/yashbhaskar/main/Assets/Ignition.png" height="70" width="70"/>
+  <img src="https://raw.githubusercontent.com/yashbhaskar/yashbhaskar/main/Assets/Behavior.png" height="70" width="70"/>
 </p>
-
 - **ROS2**
 - **Nav2**
-- **Behavior Trees**
 - **Ignition Fortress**
-
+- **Behavior Trees**
 ---
-
-### 💻 Programming Languages
+### Programming Languages
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="70" width="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="70" width="70"/>
 </p>
-
 - **Python**
 - **C++**
-
 ---
-
-### ⚙️ Development & DevOps
+### Development & DevOps
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="70" width="70"/>
   <img src="https://raw.githubusercontent.com/yashbhaskar/yashbhaskar/main/Assets/Github.png" height="70" width="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="70" width="70"/>
 </p>
-
-- **Git & GitHub**
+- **Git**
+- **GitHub**
 - **Docker**
-- **Version Control & CI-friendly workflows**
-
 ---
-
-### 🖥️ OS & Design Tools
+### OS & Design Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="70" width="70"/>
   <img src="https://raw.githubusercontent.com/yashbhaskar/yashbhaskar/main/Assets/Ubuntu.png" height="70" width="70"/>
   <img src="https://raw.githubusercontent.com/yashbhaskar/yashbhaskar/main/Assets/Debian.png" height="70" width="70"/>
 </p>
-
-- **Ubuntu Linux**
-- **Linux System Handling**
-- **SolidWorks (Mechanical Design)**
-
+- **Linux**
+- **Ubuntu**
+- **Raspbian (Debian)**
 ---
 
 ## 🚀 Practical Experience
@@ -75,13 +64,6 @@
 - ⚙️ Nav2 parameter tuning on real robots
 - 🎮 Differential & Ackermann drive systems
 - 🔄 Speed correlation & control logic
-
-![ROS2](https://img.shields.io/badge/ROS2-Robotics-blue)
-![Nav2](https://img.shields.io/badge/Nav2-Autonomous%20Navigation-green)
-![C++](https://img.shields.io/badge/C%2B%2B-Programming-blue)
-![Python](https://img.shields.io/badge/Python-Programming-yellow)
-![Docker](https://img.shields.io/badge/Docker-DevOps-blue)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange)
 
 ---
 
