@@ -76,6 +76,7 @@
 - ⚙️ Nav2 parameter tuning on real robots
 - 🎮 Differential & Ackermann drive systems
 - 🔄 Speed correlation & control logic
+
 ![ROS2](https://img.shields.io/badge/ROS2-Robotics-blue)
 ![Nav2](https://img.shields.io/badge/Nav2-Autonomous%20Navigation-green)
 ![C++](https://img.shields.io/badge/C%2B%2B-Programming-blue)
@@ -88,9 +89,7 @@
 ## 📊 GitHub Stats
 - 📦 **Total Repositories:**
 ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=public_repos&url=https://api.github.com/users/yashbhaskar)
-![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=public_repos&url=https://api.github.com/users/yashbhaskar)
-![Stars](https://img.shields.io/badge/dynamic/json?color=yellow&label=Total%20Stars&query=public_gists&url=https://api.github.com/users/yashbhaskar)
-![Gists](https://img.shields.io/badge/dynamic/json?color=orange&label=Gists&query=public_gists&url=https://api.github.com/users/yashbhaskar)
+![Total Stars](https://github-readme-stats.vercel.app/api?username=yashbhaskar&show_icons=true)
 ![Profile Views](https://komarev.com/ghpvc/?username=yashbhaskar&color=blue)
 
 <p align="center">
