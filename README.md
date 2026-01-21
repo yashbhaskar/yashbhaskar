@@ -47,7 +47,7 @@
 ### ⚙️ Development & DevOps
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40"/>
+  <img src="[https://raw.githubusercontent.com/<your-username>/<repo-name>/main/assets/icons/ros.svg](https://github.com/yashbhaskar/yashbhaskar/blob/14c57ad6bb090bac8f4ef25061812de148fd8a74/Logo%20Assets/Github.png)" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40"/>
 </p>
 
