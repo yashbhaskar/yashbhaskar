@@ -16,7 +16,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/yashbhaskar/yashbhaskar/main/Assets/ROS.png" height="60"/>
   <img src="https://raw.githubusercontent.com/yashbhaskar/yashbhaskar/main/Assets/Nav2.png" height="70" width="70"/>
-  <img src="https://raw.githubusercontent.com/yashbhaskar/yashbhaskar/main/Assets/Ignition.png" height="70" width="70"/>
+  <img src="https://raw.githubusercontent.com/yashbhaskar/yashbhaskar/main/Assets/Ignition.png" height="80" width="80"/>
   <img src="https://raw.githubusercontent.com/yashbhaskar/yashbhaskar/main/Assets/Behavior.png" height="70" width="70"/>
 </p>
 
