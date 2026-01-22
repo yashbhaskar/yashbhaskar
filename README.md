@@ -42,7 +42,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="70" width="70"/>
   <img src="https://raw.githubusercontent.com/yashbhaskar/yashbhaskar/main/Assets/Github.png" height="70" width="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="70" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="80" width="80"/>
 </p>
 
 - **Git**
