@@ -73,7 +73,7 @@
 - Autonomous Navigation : Multi-Planner & Controller Configurations, Docking Server, 3D Lidar & Depth-Cam Navigation
 - Robot Models : Differential Drive Robots, Ackermann Robots
 - Behavior Tree : Custom BT Plugin
-- CI/CD & Deployment: Experience with CI/CD pipelines, Docker containerization, and automated deployment using GitHub Actions
+- CI/CD & Deployment : Experience with CI/CD pipelines, Docker containerization, and automated deployment using GitHub Actions
 
 ---
 
