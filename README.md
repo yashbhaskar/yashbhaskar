@@ -7,7 +7,7 @@
 - 🎓 B.E. Robotics & Automation Engineer  
 - 🤖 Proficient in **ROS2, Nav2, Behavior Trees, SLAM, Localization, and Autonomous Navigation**  
 - 🏆 **E-Yantra IIT Bombay** participant (2022, 2023, 2024), led and solved complex robotics tasks  
-- 🛠️ Hands-on experience with **real robots and simulation environments**
+- 🛠️ Hands-on experience with **Real Robots Deployement and Simulation Environments**
 - 🚀 Hands-on experience with **CI/CD pipelines, Docker containerization, and GitHub Actions** for automated deployment
 
 ---
