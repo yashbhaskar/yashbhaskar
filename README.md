@@ -8,6 +8,8 @@
 - 🤖 Proficient in **ROS2, Nav2, Behavior Trees, SLAM, Localization, and Autonomous Navigation**  
 - 🏆 **E-Yantra IIT Bombay** participant (2022, 2023, 2024), led and solved complex robotics tasks  
 - 🛠️ Hands-on experience with **real robots and simulation environments**
+- 🚀 Hands-on experience with **CI/CD pipelines, Docker containerization, and GitHub Actions** for automated deployment
+
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -71,6 +73,7 @@
 - Autonomous Navigation : Multi-Planner & Controller Configurations, Docking Server, 3D Lidar & Depth-Cam Navigation
 - Robot Models : Differential Drive Robots, Ackermann Robots
 - Behavior Tree : Custom BT Plugin
+- CI/CD & Deployment: Experience with CI/CD pipelines, Docker containerization, and automated deployment using GitHub Actions
 
 ---
 
@@ -99,6 +102,7 @@ These repositories cover:
 - 🔹 **Localization** — AMCL, SLAM Toolbox, Cartographer Localization  
 - 🔹 **Mapping** — SLAM Toolbox 2D, Cartographer 2D, RTAB-Map 3D  
 - 🔹 **Nav2 Navigation** — Multiple planners/controllers, Docking Server 
+- 🔹 **CI/CD & Deployment** — CI/CD pipelines, Docker containerization, and automated deployment using GitHub Actions
 
 💡 *Knowledge grows when shared!* I hope these resources help students, freshers, and robotics enthusiasts gain **real-world practical experience**.  
 
@@ -136,6 +140,10 @@ These repositories cover:
 
 15. [Ackermann Navigation](https://github.com/yashbhaskar/ROS2_Ackermann_Navigation_Nav2)  
 16. [OmniDrive (Mecanum) Navigation](https://github.com/yashbhaskar/ROS2_Omnidirectional_Mecanum_Navigation_Nav2)  
+
+**CI/CD & Deployment:**
+
+17. [Autonomous Navigation With CI CD Pipelines and Docker](https://github.com/yashbhaskar/Autonomous_Navigation_CICD_Pipelines)
 
 ---
 
