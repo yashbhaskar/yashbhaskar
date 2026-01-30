@@ -89,10 +89,6 @@
   <img src="https://komarev.com/ghpvc/?username=yashbhaskar&style=for-the-badge&color=1f6feb" />
 </p>
 
-<p align="center">
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashbhaskar&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 📫 Connect With Me
