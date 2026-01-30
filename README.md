@@ -90,8 +90,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Public_Repos-24-1f6feb?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=yashbhaskar&style=for-the-badge&color=1f6feb" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yashbhaskar&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashbhaskar&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
