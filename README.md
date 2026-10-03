@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yash Bhaskar</h1>
-<h3 align="center">Robotics Engineer | ROS2 Developer | Robotics Software Engineer</h3>
+<h3 align="center">Robotics Software Engineer | ROS2 Developer | ROS2 · Nav2 · Autonomous Navigation</h3>
 
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 B.E. Robotics & Automation Engineer  
+- 🎓 B.E. Robotics & Automation Engineering  
 - 🤖 Proficient in **ROS2, Nav2, Behavior Trees, SLAM, Localization, and Autonomous Navigation**  
 - 🏆 **E-Yantra IIT Bombay** participant (2022, 2023, 2024), led and solved complex robotics tasks  
-- 🛠️ Hands-on experience with **Real Robots Deployement and Simulation Environments**
+- 🛠️ Hands-on experience with **Real Robots Deployment and Simulation Environments**
 - 🚀 Hands-on experience with **CI/CD pipelines, Docker containerization, and GitHub Actions** for automated deployment
 
 ---
